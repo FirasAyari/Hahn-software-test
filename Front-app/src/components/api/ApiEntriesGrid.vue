@@ -45,7 +45,7 @@ onMounted(fetchApiEntries);
       <thead>
         <tr>
           <th>ID</th>
-          <th>API Name</th>
+          <th>Breed</th>
           <th>Description</th>
           <th>Auth</th>
           <th>HTTPS</th>
