@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CRIZBY\\source\\repos\\Hahn softwareentwicklung test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D087A0B-88F6-4249-AAE2-15B4DFB3C017}|WebApiHost\\WebApiHost.csproj|c:\\users\\crizby\\source\\repos\\hahn softwareentwicklung test\\webapihost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D087A0B-88F6-4249-AAE2-15B4DFB3C017}|WebApiHost\\WebApiHost.csproj|solutionrelative:webapihost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C549A220-A321-408B-8C74-5090CC093F6C}|Infrastructure.Hangfire\\Infrastructure.Hangfire.csproj|c:\\users\\crizby\\source\\repos\\hahn softwareentwicklung test\\infrastructure.hangfire\\jobs\\apidataupsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C549A220-A321-408B-8C74-5090CC093F6C}|Infrastructure.Hangfire\\Infrastructure.Hangfire.csproj|solutionrelative:infrastructure.hangfire\\jobs\\apidataupsertjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CRIZBY\\source\\repos\\Hahn softwareentwicklung test\\WebApiHost\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiHost\\Program.cs",
+              "ToolTip": "C:\\Users\\CRIZBY\\source\\repos\\Hahn softwareentwicklung test\\WebApiHost\\Program.cs",
+              "RelativeToolTip": "WebApiHost\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvycAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T15:53:42.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiDataUpsertJob.cs",
+              "DocumentMoniker": "C:\\Users\\CRIZBY\\source\\repos\\Hahn softwareentwicklung test\\Infrastructure.Hangfire\\Jobs\\ApiDataUpsertJob.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Hangfire\\Jobs\\ApiDataUpsertJob.cs",
+              "ToolTip": "C:\\Users\\CRIZBY\\source\\repos\\Hahn softwareentwicklung test\\Infrastructure.Hangfire\\Jobs\\ApiDataUpsertJob.cs",
+              "RelativeToolTip": "Infrastructure.Hangfire\\Jobs\\ApiDataUpsertJob.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T21:12:07.918Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

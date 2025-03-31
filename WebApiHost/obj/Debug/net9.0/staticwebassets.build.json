@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SmbNVTw/2pF6y0EGTsij9NXDrZEVR2d752DXHTPduC4=",
+  "Source": "WebApiHost",
+  "BasePath": "_content/WebApiHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

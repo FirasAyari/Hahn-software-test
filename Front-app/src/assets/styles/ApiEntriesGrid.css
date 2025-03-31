@@ -1,0 +1,72 @@
+
+.filter-input {
+    width: 90%; 
+    margin: 2rem auto; 
+    padding: 12px;
+    border: 2px solid #6c7a89;
+    border-radius: 8px;
+    font-size: 1rem;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+    display: block;
+    margin-left: 16rem;
+  }
+  
+  .filter-input:focus {
+    border-color: #3498db;
+    outline: none;
+  }
+  
+  .api-table {
+    width: 180%; 
+    margin: 2rem auto; 
+    border-collapse: collapse;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    overflow: hidden;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+    background-color: #fff;
+  }
+  
+  .api-table:hover {
+    transform: scale(1.02);
+  }
+  
+  .api-table th,
+  .api-table td {
+    border: 1px solid #e0e0e0;
+    padding: 8px 12px;
+    text-align: left;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .api-table th {
+    background-color: #34495e;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .api-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .api-table tbody tr:hover {
+    background-color: #e8f5ff;
+    color: #333;
+  }
+  
+  .api-table tbody tr {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .api-table tbody tr:hover {
+    transform: translateY(-4px);
+  }
+  
+  .api-table td:nth-child(3) {
+    width: 40%;
+  }
